@@ -6,7 +6,10 @@
 (Something went wrong with my original "project1" repo so I created a new one.)
 
 
-Solutions Referenced for Project 01:
+Solutions Referenced:
+
+Detailed Data Exploration in Python
+https://www.kaggle.com/xchmiao/detailed-data-exploration-in-python
 
 Journey to the top 10%
 https://www.kaggle.com/fiorenza2/journey-to-the-top-10
